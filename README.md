@@ -221,3 +221,6 @@ footer {
   padding: 1rem;
   margin-top: 2rem;
 }
+Novas conexões:
+A relação entre campo e cidade está evoluindo, com novas questões emergindo, como a soberania alimentar e a segurança alimentar, além da necessidade de práticas mais sustentáveis. 
+Iniciativas como o programa Agrinho buscam fortalecer a conexão entre campo e cidade, promovendo a conscientização sobre a importância do meio rural e a valorização do trabalho no campo. A relação entre campo e cidade é de interdependência, onde ambos os espaços dependem um do outro para seu funcionamento e desenvolvimento. O campo fornece alimentos e matérias-primas para a cidade, enquanto a cidade oferece bens industrializados, tecnologias, serviços e um mercado consumidor para os produtos do campo. Essa relação é fundamental para o equilíbrio e desenvolvimento da sociedade como um todo
